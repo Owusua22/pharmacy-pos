@@ -1,0 +1,70 @@
+.hero{
+    background-image: url('../Assets/bg2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    overflow: hidden;
+   
+}
+.easy{
+    font-size: 4rem;
+    color: #10345f;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 190px;
+}
+
+.point{
+    color: whitesmoke;
+}
+.sell{
+    margin-top: 30px;
+}
+.now{
+    width: 250px;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 100px;
+    height: 60px;
+}
+.herobg{
+    width: 650px;
+    height: 650px;
+    margin-top: 30px;
+}
+@media screen and (max-width:720px){
+    .hero{
+        height: 600px;
+    }
+ .easy{
+    font-size: 2rem;
+    margin-top: 40px;
+    margin-left: 80px;
+    
+ }  
+ .sell{
+    font-size: 0.8rem;
+    margin-top: 20px;
+    color: whitesmoke;
+    margin-left: 80px;
+ } 
+ .now{
+    width:150px ;
+    font-size: 14px;
+    height: 30px;
+    padding: 3px;
+    margin-top: 20px;
+    margin-left: 120px;
+
+ }
+ .herobg{
+    width: 250px;
+    height: 250px;
+    margin-top: 30px;
+    margin-left: 50px;
+ }
+
+}

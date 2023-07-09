@@ -1,0 +1,30 @@
+.logo1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: whitesmoke;
+    position: relative;
+    overflow: hidden ;
+  
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+}
+
+
+.start{
+    text-decoration: none;
+    color:black;
+    font-size: 23px;
+    font-weight: 900;
+    margin-left: 130px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+ 
+    
